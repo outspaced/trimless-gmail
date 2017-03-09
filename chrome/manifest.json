@@ -1,4 +1,6 @@
 {
+    "name": "trimless-fork",
+    "version": "1.1.1.1",
     "manifest_version": 2,
     "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
     "options_page": "options.html",
@@ -8,16 +10,16 @@
     ],
 
     "icons": {
-        "16": "icon-16.png",
-        "48": "icon-48.png",
-        "128": "icon-128.png"
+        "16": "images/icon-16.png",
+        "48": "images/icon-48.png",
+        "128": "images/icon-128.png"
     },
 
     "page_action": {
         "default_title": "Trimless",
         "default_icon": {
-            "19": "icon-action-19.png",
-            "38": "icon-action-38.png"
+            "19": "images/icon-action-19.png",
+            "38": "images/icon-action-38.png"
         }
     },
 
